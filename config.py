@@ -1,1 +1,1 @@
-api_key_maps="your key"
+gkey="your key"
